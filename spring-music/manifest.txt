@@ -6,4 +6,4 @@ application:
   # Currently defaults to PWS
   domains: cfapps.io
   instacnces: 1
-  path: pre-built/spring-music-1.0.0.war
+  path: C:\Users\prasad\lova123\spring-music\pre-built\spring-music.war
